@@ -1,0 +1,30 @@
+{
+  "name": "tdma",
+  "version": "1.0.0",
+  "description": "Tridiagonal matrix algorithm: In numerical linear algebra, the tridiagonal matrix algorithm, also known as the Thomas algorithm (named after Llewellyn Thomas), is a simplified form of Gaussian elimination that can be used to solve tridiagonal systems of equations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armancodv/tdma.git"
+  },
+  "keywords": [
+    "Tridiagonal",
+    "matrix",
+    "algorithm",
+    "tdma",
+    "matrix",
+    "solver",
+    "system",
+    "of",
+    "equations"
+  ],
+  "author": "Arman Kolahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armancodv/tdma/issues"
+  },
+  "homepage": "https://github.com/armancodv/tdma#readme"
+}
