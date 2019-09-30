@@ -11,7 +11,7 @@ npm install tdma
 
 ## Sample Code
 Using coefficientMatrix
-```
+```js
 const tdma = require('tdma');
 
 const coefficientMatrix = [
@@ -27,7 +27,7 @@ console.log(answer);
 ```
 
 Using Diagonals
-```
+```js
 const tdma = require('tdma');
 
 const a = [0, 6, 2, 4];
